@@ -1,4 +1,5 @@
-namespace: postgres-operator
+namespace: fruits-test
 
 resources:
 - postgres.yaml
+- svcbiding.yaml
